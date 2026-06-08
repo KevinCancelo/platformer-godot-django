@@ -39,7 +39,7 @@ Este proyecto se encuentra en estado **Completado**, sirviendo como demostració
 ### 📦 Ejecución del Entorno
 Para que el registro de muertes funcione correctamente, el servidor debe inicializarse siguiendo estos pasos:
 
-1. Clona este repositorio: `git clone [TU_URL_AQUI]`
+1. Clona este repositorio: `git clone https://github.com/KevinCancelo/platformer-godot-django`
 2. Abre la consola de comandos (CMD) y navega hasta la carpeta `server` donde se encuentra **GodotApi**.
 3. Levanta el servidor local ejecutando el siguiente comando: 
    `python manage.py runserver 0.0.0.0:8000`
